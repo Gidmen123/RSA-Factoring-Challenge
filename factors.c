@@ -10,10 +10,10 @@ int main()
     {
         if (factor1 <= num)
         {
-	    factor1++;
-	}
+            factor1++;
+        }
         else {
-           return (-1);
+            return (-1);
         }
     }
 
